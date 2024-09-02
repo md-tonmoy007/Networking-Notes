@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "7e41adcd3db06bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cd382854f1d058",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c78fcfcf5dabf911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bits-and-Bytes-of-comp-net/Verifying Connectivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14b3d2fa28e202dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3b7ac5ff4e17ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "224988cb5ff3e081",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47682e778bad6840",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "icmp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddd7a26f2c5b235f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb4b0bb7da3c7030",
+    "type": "split",
+    "children": [
+      {
+        "id": "547a3cc3725c5775",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c944fd34eb879ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bits-and-Bytes-of-comp-net/Verifying Connectivity.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f772ecb8c2652aa2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bits-and-Bytes-of-comp-net/Verifying Connectivity.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d85e6f9a4f0db8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "36bc06d58deb859a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bits-and-Bytes-of-comp-net/Verifying Connectivity.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c78fcfcf5dabf911",
+  "lastOpenFiles": [
+    "Bits-and-Bytes-of-comp-net/Digging into dns.md",
+    "Bits-and-Bytes-of-comp-net/IPv6.md",
+    "Bits-and-Bytes-of-comp-net/Introduction to networking.md",
+    "Bits-and-Bytes-of-comp-net/Dns.md",
+    "Bits-and-Bytes-of-comp-net/Subnetting.md",
+    "Bits-and-Bytes-of-comp-net/Verifying Connectivity.md",
+    "Bits-and-Bytes-of-comp-net/Glossary/Module 5.md",
+    "Bits-and-Bytes-of-comp-net/Wireless network.md",
+    "attachment/Pasted image 20240828071007.png",
+    "Bits-and-Bytes-of-comp-net/Broadband Connections.md",
+    "Bits-and-Bytes-of-comp-net/POTS and Dial Up.md",
+    "Bits-and-Bytes-of-comp-net/Glossary/module-4.md",
+    "Reverse Proxies.md",
+    "Bits-and-Bytes-of-comp-net/VPN vs PROXY.md",
+    "Bits-and-Bytes-of-comp-net/NAT.md",
+    "attachment/Pasted image 20240825072024.png",
+    "Bits-and-Bytes-of-comp-net/DHCP.md",
+    "Bits-and-Bytes-of-comp-net/Routing.md",
+    "Bits-and-Bytes-of-comp-net/The network layer ( IP address).md",
+    "personal-ideas/Mac Address and IP address.md",
+    "Bits-and-Bytes-of-comp-net/outbound traffic and inbound traffic.md",
+    "Bits-and-Bytes-of-comp-net/The tranport layer.md",
+    "Bits-and-Bytes-of-comp-net/Glossary/module-3.md",
+    "attachment/Pasted image 20240821081757.png",
+    "attachment/Pasted image 20240818090549.png",
+    "attachment/Pasted image 20240818090523.png",
+    "attachment/Pasted image 20240818090113.png",
+    "Bits-and-Bytes-of-comp-net/Glossary/module-2.md",
+    "attachment/Pasted image 20240810160200.png",
+    "attachment/Pasted image 20240810155653.png",
+    "attachment/Pasted image 20240807091338.png",
+    "TTL.md",
+    "attachment/Pasted image 20240807085722.png",
+    "Bits-and-Bytes-of-comp-net/2024-08-01.md",
+    "reference",
+    "Bits-and-Bytes-of-comp-net/2024-07-31.md",
+    "Bits-and-Bytes-of-comp-net/2024-07-28.md",
+    "personal-ideas",
+    "Bits-and-Bytes-of-comp-net/Glossary",
+    "Data-communication-and-Networking/Key Terms",
+    "Data-communication-and-Networking",
+    "attachment",
+    "templates",
+    "Bits-and-Bytes-of-comp-net"
+  ]
+}
